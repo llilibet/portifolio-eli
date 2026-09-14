@@ -54,12 +54,6 @@ export function Footer() {
       <span className="footer-name">
         ELIZANDRO ANDRÉ © {new Date().getFullYear()}
       </span>
-      <span className="footer-line" />
-      <p>
-        IDEIAS EM CORES,
-        <br className="mobile-break" /> PROJETOS EM MOVIMENTO.
-      </p>
-      <span className="footer-line" />
       <div className="social-links">
         <a
           href={instagram}

@@ -38,7 +38,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="pt-BR">
+    <html lang="pt-BR" data-scroll-behavior="smooth">
       <body className={`${sans.variable} ${serif.variable} ${script.variable}`}>
         <a href="#conteudo" className="skip-link">
           Pular para o conteúdo

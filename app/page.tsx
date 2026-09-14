@@ -1,43 +1,50 @@
 import Link from 'next/link';
-import { ArrowUpRight, ArrowRight } from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 export default function Home() {
   return (
     <main id="conteudo" className="home page-enter">
       <div className="hero-copy">
-        <span className="eyebrow">
-          <i /> DESIGN QUE CONECTA
-        </span>
-        <h1 aria-label="Design para boas histórias.">
-          <span className="hero-title-line hero-title-start">Design</span>
-          <span className="hero-title-line hero-title-offset">para boas</span>
-          <em className="hero-title-line">histórias.</em>
-        </h1>
-        <p className="lead">
-          Projetos que unem criatividade,
-          <br className="desktop-break" /> pessoas e ideias em movimento.
+        <p className="home-intro">
+          <span aria-hidden="true" /> Design, curiosidade e experimentação
         </p>
-        <div className="tags">
-          <span>design</span>
-          <span>identidade visual</span>
-          <span>ui/ux</span>
-          <span>personagens</span>
+        <h1>
+          <span>Olá, eu sou</span>
+          <span>Elizandro</span>
+          <em>André.</em>
+        </h1>
+        <p className="home-bio">
+          Designer, nascido e criado no Amazonas. Crio identidades visuais,
+          interfaces e personagens — e gosto de experimentar um pouco de tudo.
+        </p>
+        <div className="home-actions">
+          <Link href="/trabalhos" className="button home-work-link">
+            Conheça meus trabalhos <ArrowRight size={18} />
+          </Link>
         </div>
-        <Link href="/trabalhos" className="button">
-          Ver meus trabalhos <ArrowRight size={20} />
-        </Link>
-        <Link className="intro-link" href="/sobre">
-          Prazer, sou Elizandro André <ArrowUpRight size={17} />
-        </Link>
       </div>
-      <div className="hero-art">
-        <img
-          src="/images/cabine.webp"
-          alt="Renderização 3D de uma cabine telefônica vermelha sobre um fundo bege"
-          width="1200"
-          height="1200"
-          fetchPriority="high"
-        />
-      </div>
+        <Link href="/colecao" className="home-feature" aria-label="Ver Cabine telefônica e outros estudos na coleção">
+          <figure>
+            <div className="home-feature-image">
+              <img
+                src="/images/cabine.webp"
+                alt="Cabine telefônica vermelha modelada em 3D por Elizandro André"
+                width="1200"
+                height="1200"
+                fetchPriority="high"
+              />
+              <span className="home-feature-note" aria-hidden="true">
+                ideias que<br />ganham forma
+              </span>
+            </div>
+            <figcaption>
+              <div>
+                <p className="home-feature-label">Projeto em destaque · Modelagem 3D</p>
+                <h2>Cabine telefônica</h2>
+              </div>
+              <span className="home-feature-arrow" aria-hidden="true"><ArrowRight size={24} /></span>
+            </figcaption>
+          </figure>
+        </Link>
     </main>
   );
 }

@@ -6,6 +6,7 @@ import { type CollectionItem } from '../projects';
 export default function Collection({ items }: { items: CollectionItem[] }) {
   const [filter, setFilter] = useState('Todos');
   const [selected, setSelected] = useState<CollectionItem | null>(null);
+  const filters = ['Todos', ...new Set(items.map((item) => item.type))];
   return (
     <main id="conteudo" className="collection-page page-enter">
       <div className="collection-heading">
@@ -34,7 +35,7 @@ export default function Collection({ items }: { items: CollectionItem[] }) {
           Recortes dos processos que deram vida aos meus trabalhos.
         </p>
         <div className="filters" aria-label="Filtrar coleção">
-          {['Todos', 'Personagens', 'Identidade visual', 'UI/UX'].map((f) => (
+          {filters.map((f) => (
             <button
               aria-pressed={f === filter}
               key={f}
@@ -52,7 +53,7 @@ export default function Collection({ items }: { items: CollectionItem[] }) {
             <button
               onClick={() => setSelected(item)}
               key={item.title}
-              className={`collection-item ${item.shape}`}
+              className="collection-item"
             >
               <div className={`study-image ${item.color}`}>
                 <img loading="lazy" src={item.image} alt={item.alt} />

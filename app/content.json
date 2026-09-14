@@ -61,6 +61,42 @@
       "alt": "Construção do símbolo do Whiskerworld, em que silhuetas de cão e gato formam a letra W",
       "shape": "",
       "color": "forest"
+    },
+    {
+      "title": "Cabine telefônica",
+      "type": "Modelagem 3D",
+      "detail": "Modelagem 3D de uma cabine telefônica vermelha, com detalhes nas janelas e na sinalização.",
+      "image": "/images/modelagem-cabine.webp",
+      "alt": "Modelagem 3D de uma cabine telefônica vermelha, vista em perspectiva sobre um fundo bege",
+      "shape": "tall",
+      "color": "sand"
+    },
+    {
+      "title": "Ponto de ônibus",
+      "type": "Modelagem 3D",
+      "detail": "Modelagem 3D de um ponto de ônibus em miniatura, com abrigo, banco, sinalização e um vaso de planta.",
+      "image": "/images/modelagem-ponto-de-onibus.webp",
+      "alt": "Modelagem 3D de um ponto de ônibus com cobertura vermelha, banco, vaso de planta e placa azul sobre uma pequena base",
+      "shape": "",
+      "color": "lilac"
+    },
+    {
+      "title": "Pães caseiros",
+      "type": "Gastronomia",
+      "detail": "Pães caseiros que preparei durante um curso. Uma experiência de criação na cozinha, explorando diferentes sabores e formatos.",
+      "image": "/images/paes-caseiros.webp",
+      "alt": "Pães de queijo, coco, cebola, chocolate e milho, além de pão trançado, organizados em bandejas sobre uma bancada",
+      "shape": "",
+      "color": "sand"
+    },
+    {
+      "title": "Panfleto para revista",
+      "type": "Design gráfico",
+      "detail": "Projeto de panfleto para uma revista, desenvolvido em colaboração com um grupo de análise de imagem.",
+      "image": "/images/panfleto-revista.webp",
+      "alt": "Panfletos impressos em papéis verdes, laranjas, rosas, amarelos e marrons, com tipografia e uma imagem de olho em branco",
+      "shape": "tall",
+      "color": "sand"
     }
   ],
   "projects": {
