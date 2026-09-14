@@ -1,0 +1,760 @@
+{
+  "about": [
+    "Nascido e criado no Amazonas, sou uma pessoa naturalmente curiosa, imaginativa e um pouco propensa a devanear, o que, no fim das contas, costuma ser um ótimo ponto de partida para criar.",
+    "Gosto de observar, experimentar e aprender com tudo ao meu redor. Filmes (sim, tenho um Letterboxd), séries, fotografia, livros, jogos de tabuleiro e jogos retrô fazem parte das coisas que alimentam meu repertório criativo. Já tentei escrever um livro de contos, nunca tive coragem de publicar, mas a vontade de criar histórias continua por aqui. Ultimamente, também estou em um pequeno hiperfoco por ukulele.",
+    "Também tenho uma relação nada discreta com Pokémon. E sim, se existisse a oportunidade de virar líder de ginásio, eu provavelmente levaria essa função muito a sério.",
+    "Sou formado em Design pela Universidade Federal do Amazonas e atualmente faço Mestrado em Design de Sistemas de Informação pela Universidade Federal do Paraná e, de quebra, Licenciatura em Teatro pela Universidade Estadual do Paraná. Tenho explorado diferentes áreas do design enquanto descubro quais delas mais combinam comigo, e o teatro entrou nesse caminho como uma forma de experimentar outras maneiras de criar, comunicar e me expressar.",
+    "Ainda não tenho todas as respostas do mundo, nem sei exatamente onde quero chegar, e, por enquanto, tudo bem. Tenho usado esse momento para experimentar, desenvolver novas habilidades e entender melhor quem sou como pessoa e como profissional.",
+    "No fim, acho que é isso que mais me move: curiosidade, vontade de criar e disposição para continuar aprendendo, sobre design, sobre pessoas e sobre tudo que aparecer no caminho."
+  ],
+  "collection": [
+    {
+      "title": "Antes da Mysticléo",
+      "type": "Personagens",
+      "detail": "Esboços e alternativas de personagem para o universo de Angry Birds.",
+      "image": "/images/image6.webp",
+      "alt": "Cinco esboços a lápis de cor de um passarinho roxo, testando topete, bico e formato do corpo",
+      "shape": "tall",
+      "color": "lilac"
+    },
+    {
+      "title": "Um N, muitas possibilidades",
+      "type": "Identidade visual",
+      "detail": "Estudos iniciais do símbolo do NUPAD: pesquisa, crescimento e Administração.",
+      "image": "/images/image12.webp",
+      "alt": "Folha com esboços a lápis da letra N combinada a lupas, folhas e gráficos",
+      "shape": "",
+      "color": "sand"
+    },
+    {
+      "title": "Encontrando uma personalidade",
+      "type": "Personagens",
+      "detail": "Explorações de forma e expressão que fizeram parte da criação da Mysticléo.",
+      "image": "/images/image7.webp",
+      "alt": "Painel de conceito com foto de um pássaro roxo ao lado do texto que apresenta a Mysticléo",
+      "shape": "",
+      "color": "lilac"
+    },
+    {
+      "title": "Do traço ao foco",
+      "type": "Identidade visual",
+      "detail": "Esboço da marca Química em Foco, explorando moléculas e enquadramento.",
+      "image": "/images/image23.webp",
+      "alt": "Esboços a lápis da marca Química em Foco, unindo moléculas hexagonais a cantos de enquadramento",
+      "shape": "tall",
+      "color": "sand"
+    },
+    {
+      "title": "Uma jornada antes das cores",
+      "type": "UI/UX",
+      "detail": "Wireframes e feedbacks de interação do projeto Movie Theater Snack Ordering.",
+      "image": "/images/image27.webp",
+      "alt": "Wireframes em cinza das telas de pedido de lanches, com anotações de interação entre elas",
+      "shape": "wide",
+      "color": "gray"
+    },
+    {
+      "title": "Pequenas formas, grandes vínculos",
+      "type": "Identidade visual",
+      "detail": "O símbolo do Whiskerworld reúne cães, gatos e a letra W.",
+      "image": "/images/image42.webp",
+      "alt": "Construção do símbolo do Whiskerworld, em que silhuetas de cão e gato formam a letra W",
+      "shape": "",
+      "color": "forest"
+    }
+  ],
+  "projects": {
+    "mysticleo": {
+      "tags": [
+        "Design Thinking",
+        "Pesquisa Visual",
+        "Concept Design",
+        "Ideação",
+        "Vetorização",
+        "Processo Criativo"
+      ],
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Como criar uma personagem nova para um universo que já possui uma identidade visual tão reconhecível?"
+        },
+        {
+          "type": "text",
+          "text": "Esse foi o desafio proposto em uma disciplina da faculdade: desenvolver uma nova personagem para o universo de Angry Birds utilizando métodos de Design. Mais do que criar uma aparência interessante, o objetivo era entender o que faz um personagem pertencer àquele universo e, a partir disso, desenvolver algo novo sem perder sua essência."
+        },
+        {
+          "type": "heading",
+          "text": "Entendendo o universo do jogo"
+        },
+        {
+          "type": "text",
+          "text": "Comecei o projeto com uma análise diacrônica de Angry Birds, observando a evolução dos jogos e de seus personagens ao longo do tempo. Analisei como novas habilidades, formas e características foram introduzidas e como essas mudanças influenciaram a jogabilidade."
+        },
+        {
+          "type": "text",
+          "text": "Esse estudo também me ajudou a identificar padrões entre os personagens: proporções, cores, expressões, nível de detalhamento e elementos que tornam cada um único, mas ainda reconhecível como parte de Angry Birds."
+        },
+        {
+          "type": "heading",
+          "text": "Transformando referências em direção visual"
+        },
+        {
+          "type": "image",
+          "src": "/images/image1.webp",
+          "alt": "Slide da análise diacrônica com o pássaro Red, o ícone de Angry Birds Seasons e notas sobre os jogos"
+        },
+        {
+          "type": "text",
+          "text": "Depois da pesquisa, desenvolvi um painel semântico reunindo referências de formas, cores, cenários e personagens. Como desenho não é minha principal habilidade, trabalhar com referências foi essencial para transformar ideias abstratas em possibilidades visuais mais concretas."
+        },
+        {
+          "type": "text",
+          "text": "Também observei personagens já existentes no jogo como similares visuais. Eles me ajudaram a entender melhor proporções, complexidade das formas, uso de luz e sombra e principalmente até onde eu poderia experimentar sem fugir da identidade da franquia."
+        },
+        {
+          "type": "image",
+          "src": "/images/image2.webp",
+          "alt": "Painel de referências com pôsteres e cenas de Angry Birds 2 em vermelho, verde e laranja"
+        },
+        {
+          "type": "heading",
+          "text": "Encontrando uma personalidade"
+        },
+        {
+          "type": "image",
+          "src": "/images/image3.webp",
+          "alt": "Três personagens do jogo usados como similares visuais: Red vermelho, Chuck amarelo e Stella rosa"
+        },
+        {
+          "type": "text",
+          "text": "Nesse ponto eu já sabia como a personagem poderia parecer, mas ainda faltava descobrir quem ela seria."
+        },
+        {
+          "type": "text",
+          "text": "Por isso, fiz um brainstorming de palavras-chave para explorar possíveis características, sensações e conceitos. Esse processo me levou para uma direção mais misteriosa e mágica."
+        },
+        {
+          "type": "text",
+          "text": "A partir dessas palavras, construí um painel de conceito para consolidar a personalidade e a atmosfera visual que queria transmitir."
+        },
+        {
+          "type": "image",
+          "src": "/images/image4.webp",
+          "alt": "Nuvem de palavras-chave em torno de Angry Birds, com termos como fúria, delicadeza e formas arredondadas"
+        },
+        {
+          "type": "heading",
+          "text": "Explorando possibilidades"
+        },
+        {
+          "type": "image",
+          "src": "/images/image5.webp",
+          "alt": "Painel de conceito com foto de um pássaro roxo ao lado do texto que apresenta a Mysticléo"
+        },
+        {
+          "type": "text",
+          "text": "Com o conceito definido, comecei a desenvolver diferentes alternativas para a personagem. Os primeiros sketches foram uma etapa de experimentação: testei formas, proporções e características até encontrar uma direção que equilibrasse personalidade própria e familiaridade com o universo de Angry Birds."
+        },
+        {
+          "type": "text",
+          "text": "Depois, transformei as alternativas escolhidas em versões vetorizadas, o que me permitiu comparar melhor cada solução e refinar detalhes de forma e cor."
+        },
+        {
+          "type": "image",
+          "src": "/images/image6.webp",
+          "alt": "Cinco esboços a lápis de cor da personagem em tons de roxo, testando topete, bico e formato do corpo"
+        },
+        {
+          "type": "heading",
+          "text": "Conheça Mysticléo"
+        },
+        {
+          "type": "image",
+          "src": "/images/image7.webp",
+          "alt": "Cinco alternativas vetorizadas da personagem roxa, variando olhar, penacho e posição das manchas"
+        },
+        {
+          "type": "text",
+          "text": "A alternativa final deu origem à Mysticléo, uma personagem criada para transmitir uma personalidade mística e intrigante sem perder a linguagem visual característica de Angry Birds."
+        },
+        {
+          "type": "image",
+          "src": "/images/image8.webp",
+          "alt": "Mysticléo finalizada: passarinho roxo de bico amarelo, olhos grandes de cores distintas e topete claro"
+        },
+        {
+          "type": "text",
+          "text": "A heterocromia dos olhos se tornou um dos principais elementos da personagem, reforçando sua aparência incomum e misteriosa. A paleta em tons de roxo complementa essa ideia, enquanto suas formas e proporções foram pensadas para manter a conexão visual com os personagens existentes do jogo."
+        },
+        {
+          "type": "text",
+          "text": "Mais do que chegar a um personagem final, esse projeto me mostrou como pesquisa, referências e experimentação podem transformar uma ideia vaga em uma solução visual coerente."
+        }
+      ]
+    },
+    "nupad": {
+      "tags": [
+        "Branding",
+        "Identidade Visual",
+        "Pesquisa",
+        "Briefing",
+        "Design Gráfico",
+        "Ideação",
+        "Trabalho em equipe",
+        "Comunicação com cliente"
+      ],
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Como criar uma identidade própria sem perder a conexão com aquilo que já existe?"
+        },
+        {
+          "type": "text",
+          "text": "Esse foi um dos principais desafios no desenvolvimento da identidade visual do NUPAD — Núcleo de Pesquisa em Administração da Universidade Federal do Amazonas, grupo que reúne pesquisas e projetos relacionados à área de Administração."
+        },
+        {
+          "type": "text",
+          "text": "O projeto foi desenvolvido em dupla e passou por todo o processo de criação de uma identidade visual: do briefing e pesquisa inicial à exploração de alternativas, refinamento e apresentação da proposta ao cliente."
+        },
+        {
+          "type": "image",
+          "src": "/images/image9.webp",
+          "alt": "Logotipo final do NUPAD em azul-marinho, com losango azul-claro sobre o letreiro e a assinatura do núcleo"
+        },
+        {
+          "type": "heading",
+          "text": "Entendendo o que a marca precisava comunicar"
+        },
+        {
+          "type": "text",
+          "text": "Antes de começar a desenhar, precisávamos entender o NUPAD."
+        },
+        {
+          "type": "text",
+          "text": "O briefing nos ajudou a definir não apenas o que a identidade deveria representar, mas também quais limites precisávamos respeitar. A proposta deveria transmitir seriedade e credibilidade acadêmica, manter alguma conexão com a identidade visual da área de Administração e, se possível, incorporar uma referência a gráficos."
+        },
+        {
+          "type": "text",
+          "text": "A partir dessas informações, construímos um painel visual para transformar os conceitos do briefing em uma direção estética."
+        },
+        {
+          "type": "image",
+          "src": "/images/image10.webp",
+          "alt": "Painel visual com logos acadêmicas, gráficos de crescimento e fotos em tons de azul e verde"
+        },
+        {
+          "type": "text",
+          "text": "Também analisamos a identidade visual da Administração e de outros núcleos e departamentos relacionados."
+        },
+        {
+          "type": "heading",
+          "text": "Criando dentro de restrições"
+        },
+        {
+          "type": "image",
+          "src": "/images/image11.webp",
+          "alt": "Símbolo azul da Administração: losango formado por duas setas espelhadas apontando para o centro"
+        },
+        {
+          "type": "text",
+          "text": "As referências solicitadas pelo cliente tornaram o processo mais desafiador: precisávamos criar algo novo sem romper completamente com a linguagem visual já estabelecida."
+        },
+        {
+          "type": "text",
+          "text": "Começamos explorando diferentes formas de combinar o conceito de pesquisa, crescimento, Administração e a letra “N”."
+        },
+        {
+          "type": "image",
+          "src": "/images/image12.webp",
+          "alt": "Esboços a lápis de ideias de marca: letra N, lupa, balão de pensamento e letreiros NUPAD"
+        },
+        {
+          "type": "text",
+          "text": "Os primeiros estudos nos ajudaram a testar possibilidades e identificar quais caminhos se aproximavam melhor do briefing."
+        },
+        {
+          "type": "image",
+          "src": "/images/image13.webp",
+          "alt": "Estudo da marca em negativo: símbolo e tipografia em branco sobre fundo azul-marinho"
+        },
+        {
+          "type": "image",
+          "src": "/images/image14.webp",
+          "alt": "Alternativa com o símbolo preenchido em dois tons de azul e contornado por traço azul-escuro"
+        },
+        {
+          "type": "image",
+          "src": "/images/image15.webp",
+          "alt": "Estudo com símbolo mais compacto, de cantos arredondados, e losango azul-claro solto à direita"
+        },
+        {
+          "type": "image",
+          "src": "/images/image16.webp",
+          "alt": "Versão apenas em linha, com o símbolo vazado em azul e sem o filete acima do letreiro NUPAD"
+        },
+        {
+          "type": "text",
+          "text": "Uma das alternativas trouxe a referência ao gráfico que buscávamos, mas ainda havia um problema: a leitura da letra “N” não estava clara o suficiente."
+        },
+        {
+          "type": "text",
+          "text": "Em vez de descartar a ideia, começamos a refiná-la."
+        },
+        {
+          "type": "image",
+          "src": "/images/image17.webp",
+          "alt": "Refinamento em preto e branco, com o símbolo desenhado só com contornos finos e mais inclinado"
+        },
+        {
+          "type": "text",
+          "text": "Reduzimos a inclinação do símbolo e acentuamos seus ângulos, tornando o “N” mais reconhecível sem perder a sensação de movimento presente no conceito original."
+        },
+        {
+          "type": "text",
+          "text": "Foi desse processo de experimentação e refinamento que surgiu a identidade final do NUPAD."
+        },
+        {
+          "type": "image",
+          "src": "/images/image18.webp",
+          "alt": "Marca final aplicada em monocromia azul-claro sobre fundo branco"
+        },
+        {
+          "type": "image",
+          "src": "/images/image19.webp",
+          "alt": "Marca final em monocromia azul-marinho, com símbolo e tipografia na mesma cor"
+        },
+        {
+          "type": "image",
+          "src": "/images/image20.webp",
+          "alt": "Versão bicolor da marca: símbolo azul-marinho com o losango azul-claro destacado no canto superior"
+        },
+        {
+          "type": "heading",
+          "text": "A identidade final"
+        },
+        {
+          "type": "text",
+          "text": "A marca foi construída para transmitir seriedade, estabilidade e confiança, características importantes para um núcleo acadêmico de pesquisa."
+        },
+        {
+          "type": "text",
+          "text": "As linhas retas e a composição mais limpa reforçam essa sobriedade, enquanto a forma quadrada contribui para a sensação de estabilidade. Os ângulos presentes no símbolo criam movimento e fazem referência tanto à letra “N” quanto à representação visual de um gráfico."
+        },
+        {
+          "type": "text",
+          "text": "A paleta de cores e a tipografia seguem a mesma direção, criando uma identidade institucional, consistente e facilmente reconhecível."
+        },
+        {
+          "type": "text",
+          "text": "O resultado final foi aprovado pelo cliente e adotado pelo NUPAD em sua comunicação institucional."
+        },
+        {
+          "type": "text",
+          "text": "Mais do que desenvolver uma marca, esse projeto me mostrou como boas soluções de design surgem do equilíbrio entre criatividade, requisitos, colaboração e capacidade de iterar sobre uma ideia."
+        }
+      ]
+    },
+    "quimica-em-foco": {
+      "tags": [
+        "Identidade Visual",
+        "Branding",
+        "Briefing",
+        "Design Gráfico",
+        "Trabalho em equipe",
+        "Comunicação visual",
+        "Direção criativa"
+      ],
+      "blocks": [
+        {
+          "type": "text",
+          "text": "O projeto Química em Foco surgiu a partir da demanda de criar uma identidade visual para divulgar a iniciativa ao público externo da UFAM, com foco especial em estudantes do ensino médio. O trabalho foi desenvolvido em um grupo de quatro pessoas e tinha como principal desafio traduzir visualmente um projeto acadêmico de forma atrativa, clara e acessível para um público mais jovem."
+        },
+        {
+          "type": "image",
+          "src": "/images/image21.webp",
+          "alt": "Logotipo Química em Foco: molécula azul-marinho com bolinhas verdes dentro de colchetes de enquadramento"
+        },
+        {
+          "type": "text",
+          "text": "Desde o início, o briefing já trazia uma direção bem definida: a cliente queria manter as cores do Departamento de Química e nos deu liberdade para explorar o processo criativo a partir disso. Essa combinação entre direcionamento e abertura criativa tornou o projeto interessante, porque exigia coerência com a identidade já existente, mas também espaço para propor algo novo."
+        },
+        {
+          "type": "image",
+          "src": "/images/image22.webp",
+          "alt": "Três versões do logotipo do Departamento de Química, com um Q dentro de um balão de laboratório em azul"
+        },
+        {
+          "type": "text",
+          "text": "Dentro da equipe, fiquei responsável pela criação da proposta visual. A ideia central foi construir uma identidade que fizesse uma relação entre moléculas químicas, foco e a lente de uma câmera fotográfica, criando um símbolo simples, lúdico e facilmente reconhecível."
+        },
+        {
+          "type": "image",
+          "src": "/images/image23.webp",
+          "alt": "Esboço a lápis do símbolo: molécula de cinco esferas entre marcas de enquadramento e o letreiro à mão"
+        },
+        {
+          "type": "text",
+          "text": "A partir dessa alternativa inicial, desenvolvi a identidade visual e refinei a proposta até chegar à versão final."
+        },
+        {
+          "type": "image",
+          "src": "/images/image24.webp",
+          "alt": "Versão final vetorizada da marca, com a molécula centralizada e a palavra FOCO destacada em verde"
+        },
+        {
+          "type": "text",
+          "text": "O conceito foi pensado para ser direto e funcional. O enquadramento remete à ideia de foco, reforçando a proposta do projeto de destacar e aproximar a química do seu público. A referência à lente adiciona um caráter mais dinâmico e contemporâneo, enquanto os elementos inspirados no universo da química ajudam a compor a identidade de forma coerente com o tema."
+        },
+        {
+          "type": "text",
+          "text": "A tipografia também teve um papel importante na composição, especialmente ao dar maior destaque à palavra “Foco”, enfatizando visualmente a principal proposta do projeto. Já a paleta de cores, definida a partir da identidade do Departamento de Química, ajudou a manter a conexão institucional e guiou as decisões visuais ao longo do processo."
+        },
+        {
+          "type": "text",
+          "text": "O resultado foi uma identidade visual aprovada pela cliente, capaz de equilibrar clareza, ludicidade e conexão com o contexto acadêmico. Mais do que o resultado final, esse projeto reforçou para mim a importância de criar soluções visuais que dialoguem com o público, respeitem restrições do briefing e comuniquem uma ideia de forma simples e eficiente."
+        }
+      ]
+    },
+    "cinema": {
+      "tags": [
+        "UX Design",
+        "Wireframing",
+        "User Flow",
+        "Arquitetura da Informação",
+        "Mobile Design",
+        "Prototipação",
+        "Experiência do Usuário"
+      ],
+      "blocks": [
+        {
+          "type": "text",
+          "text": "E se fosse possível escolher o lanche do cinema com a mesma facilidade com que escolhemos o filme?"
+        },
+        {
+          "type": "text",
+          "text": "Esse projeto surgiu a partir de um desafio fictício realizado durante um curso de UX Design da Google/Coursera. A proposta era desenvolver wireframes para uma experiência mobile a partir de uma temática simples. Escolhi trabalhar com um aplicativo de pedidos de lanches para uma rede de cinemas."
+        },
+        {
+          "type": "text",
+          "text": "Mais do que desenhar telas, procurei pensar em como o usuário percorreria toda a experiência, desde a descoberta dos produtos até a finalização do pedido."
+        },
+        {
+          "type": "heading",
+          "text": "Organizando a experiência"
+        },
+        {
+          "type": "text",
+          "text": "O ponto de partida foi imaginar quais informações seriam mais importantes para alguém usando o aplicativo: encontrar rapidamente um produto, navegar entre categorias e ter acesso fácil ao carrinho."
+        },
+        {
+          "type": "text",
+          "text": "Por isso, organizei a tela principal com elementos como busca, acesso ao carrinho e categorias para sugestões, snacks, bebidas e ofertas, além de uma navegação inferior para as principais áreas do aplicativo."
+        },
+        {
+          "type": "image",
+          "src": "/images/image25.webp",
+          "alt": "Wireframe cinza da tela inicial do app, com busca, abas de categorias, recomendações e menu inferior"
+        },
+        {
+          "type": "text",
+          "text": "Para evitar que o usuário precisasse percorrer uma única lista extensa, os produtos foram organizados em categorias específicas. A área de lanches, por exemplo, separa opções como pipoca, chocolates, salgadinhos e doces, enquanto as bebidas possuem sua própria organização."
+        },
+        {
+          "type": "image",
+          "src": "/images/image26.webp",
+          "alt": "Dois wireframes lado a lado das abas Snacks e Beverages, com grades de produtos por subcategoria"
+        },
+        {
+          "type": "heading",
+          "text": "Do produto ao pedido"
+        },
+        {
+          "type": "text",
+          "text": "Também pensei nos feedbacks que o sistema deveria oferecer ao usuário. Ao adicionar um produto ao carrinho ou utilizar um cupom, por exemplo, o aplicativo exibe uma confirmação da ação."
+        },
+        {
+          "type": "image",
+          "src": "/images/image27.webp",
+          "alt": "Três wireframes do checkout: resumo do pedido, cupom com retirada e horário da sessão, e pagamento"
+        },
+        {
+          "type": "text",
+          "text": "O carrinho permite revisar os itens, visualizar o valor total, adicionar novos produtos ou seguir para o checkout."
+        },
+        {
+          "type": "image",
+          "src": "/images/image28.webp",
+          "alt": "Wireframe da tela de carrinho, listando itens com preços, total e botões Add Item e Checkout"
+        },
+        {
+          "type": "heading",
+          "text": "Pensando no contexto do cinema"
+        },
+        {
+          "type": "text",
+          "text": "Uma das partes que mais gostei de desenvolver foi conectar o pedido ao próprio contexto da experiência no cinema."
+        },
+        {
+          "type": "text",
+          "text": "Durante o checkout, o usuário pode revisar o pedido, aplicar descontos e informar em qual cinema fará a retirada e o horário da sessão, antes de seguir para o pagamento."
+        },
+        {
+          "type": "image",
+          "src": "/images/image29.webp",
+          "alt": "Três telas com avisos sobre o fundo escurecido confirmando item adicionado ao carrinho e cupom resgatado"
+        },
+        {
+          "type": "text",
+          "text": "Depois, o fluxo segue para as informações de pagamento e termina com uma tela de confirmação do pedido."
+        },
+        {
+          "type": "image",
+          "src": "/images/image30.webp",
+          "alt": "Wireframes de pagamento e da confirmação final, com o aviso Order Submitted sobre a tela escurecida"
+        },
+        {
+          "type": "heading",
+          "text": "O que levei desse projeto"
+        },
+        {
+          "type": "text",
+          "text": "Por ser um wireframe, o objetivo não era definir cores, ilustrações ou uma identidade visual final, mas entender hierarquia, navegação e funcionamento da experiência antes da camada estética."
+        },
+        {
+          "type": "text",
+          "text": "Foi um dos projetos que me ajudou a começar a enxergar interfaces não apenas como um conjunto de telas, mas como uma sequência de decisões: o que o usuário precisa encontrar, qual deve ser seu próximo passo e como tornar esse caminho mais claro."
+        }
+      ]
+    },
+    "whiskerworld": {
+      "tags": [
+        "UI Design",
+        "Identidade Visual",
+        "Web Design",
+        "User Flow",
+        "Prototipação",
+        "Experiência do Usuário",
+        "Design de Interfaces"
+      ],
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Como criar uma experiência de adoção que pareça acolhedora desde o primeiro contato?"
+        },
+        {
+          "type": "text",
+          "text": "O Whiskerworld é um projeto de website voltado à adoção de cães e gatos. Além da criação da interface, desenvolvi também sua identidade visual, buscando construir uma experiência simples, leve e amigável, características que combinassem com a proposta do projeto e com o vínculo afetivo envolvido no processo de adoção."
+        },
+        {
+          "type": "image",
+          "src": "/images/image31.webp",
+          "alt": "Tela inicial do Whiskerworld com a pergunta “O que você procura?” e dois cartões verdes: gatos e cães"
+        },
+        {
+          "type": "heading",
+          "text": "Criando uma linguagem para o projeto"
+        },
+        {
+          "type": "text",
+          "text": "Desde o início, eu queria que a identidade do Whiskerworld transmitisse uma sensação mais próxima e acolhedora, evitando uma aparência excessivamente institucional."
+        },
+        {
+          "type": "text",
+          "text": "Por isso, trabalhei com uma composição visual mais suave, utilizando tons claros, formas arredondadas e elementos gráficos inspirados em cães e gatos. Essa linguagem foi aplicada tanto à marca quanto aos componentes da interface, ajudando a criar consistência entre as diferentes páginas do site."
+        },
+        {
+          "type": "image",
+          "src": "/images/image32.webp",
+          "alt": "Duas telas de confirmação de adoção lado a lado, com prazo de visitação de 2 dias para o gato e 1 dia para o cão"
+        },
+        {
+          "type": "heading",
+          "text": "Pensando na jornada do usuário"
+        },
+        {
+          "type": "text",
+          "text": "A experiência começa com os fluxos de login e cadastro, incluindo recuperação de senha e confirmação de conta."
+        },
+        {
+          "type": "image",
+          "src": "/images/image33.webp",
+          "alt": "Tela de login com campos de e-mail e senha em card verde e o símbolo de cão e gato no canto inferior"
+        },
+        {
+          "type": "image",
+          "src": "/images/image34.webp",
+          "alt": "Tela de cadastro com quatro campos arredondados: e-mail, usuário, senha e confirmação de senha"
+        },
+        {
+          "type": "text",
+          "text": "Depois de entrar na plataforma, o usuário pode escolher entre gatos ou cães e explorar os animais disponíveis para adoção."
+        },
+        {
+          "type": "text",
+          "text": "Os animais são apresentados em cards, permitindo visualizar rapidamente diferentes opções antes de acessar informações mais detalhadas."
+        },
+        {
+          "type": "image",
+          "src": "/images/image35.webp",
+          "alt": "Página “Gatos” com grade de cartões amarelos mostrando a foto e o nome de cada felino para adoção"
+        },
+        {
+          "type": "image",
+          "src": "/images/image36.webp",
+          "alt": "Página “Cães” com cartões amarelos de max, lidia maria, onu e lillie, entre outros disponíveis"
+        },
+        {
+          "type": "heading",
+          "text": "Mais informação antes da decisão"
+        },
+        {
+          "type": "text",
+          "text": "Ao selecionar um animal, o usuário consegue visualizar informações importantes como idade, sexo, vacinação, vermifugação e descrição, antes de decidir pela adoção."
+        },
+        {
+          "type": "image",
+          "src": "/images/image37.webp",
+          "alt": "Cartão do cão max aberto com idade, sexo, vacinação e descrição, além dos botões adotar e voltar"
+        },
+        {
+          "type": "text",
+          "text": "Essa etapa foi pensada para tornar a navegação simples: primeiro conhecer as opções, depois acessar os detalhes e só então tomar uma decisão."
+        },
+        {
+          "type": "heading",
+          "text": "Tornando a experiência mais humana"
+        },
+        {
+          "type": "text",
+          "text": "Também procurei trazer uma linguagem mais próxima em alguns momentos da interface."
+        },
+        {
+          "type": "text",
+          "text": "Na recuperação de senha, por exemplo, a mensagem diz que os “amigos de 4 patas” vão ajudar o usuário, enquanto outras telas utilizam textos como “Que bom que você vai adotar essa fofura!” para tornar a experiência menos impessoal."
+        },
+        {
+          "type": "image",
+          "src": "/images/image38.webp",
+          "alt": "Tela de recuperação de senha com a mensagem sobre os “amigos 4 patas” e um rastro de pegadas verdes"
+        },
+        {
+          "type": "image",
+          "src": "/images/image39.webp",
+          "alt": "Aviso “Já checou o seu e-mail?” com botão de retorno ao login sobre o mesmo rastro de patinhas"
+        },
+        {
+          "type": "image",
+          "src": "/images/image40.webp",
+          "alt": "Mensagem de cadastro finalizado com sucesso e os botões reenviar e login dentro de um card verde"
+        },
+        {
+          "type": "text",
+          "text": "Depois da escolha, o sistema informa quando o animal estará disponível para visitação no abrigo, encerrando o fluxo de interesse na adoção."
+        },
+        {
+          "type": "heading",
+          "text": "O que esse projeto me ensinou"
+        },
+        {
+          "type": "text",
+          "text": "O Whiskerworld foi uma oportunidade de pensar não apenas na aparência de uma interface, mas em como identidade visual, linguagem e fluxo de navegação podem trabalhar juntos para construir uma experiência coerente."
+        },
+        {
+          "type": "text",
+          "text": "Foi também um exercício importante para entender que uma interface não precisa apenas funcionar: ela pode transmitir personalidade e contribuir para a maneira como o usuário percebe todo o produto."
+        }
+      ]
+    },
+    "whiskerworld-marca": {
+      "tags": [
+        "Branding",
+        "Identidade Visual",
+        "Design Gráfico",
+        "Criação de Marca",
+        "Processo Criativo"
+      ],
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Como transformar cães, gatos e a letra “W” em uma marca única e reconhecível?"
+        },
+        {
+          "type": "text",
+          "text": "A identidade visual do Whiskerworld foi criada para transmitir exatamente a essência do projeto: uma plataforma de adoção de pets com uma linguagem leve, acolhedora e amigável."
+        },
+        {
+          "type": "text",
+          "text": "Desde o início, eu queria que o símbolo tivesse uma conexão direta com o propósito da marca. Por isso, parti de três elementos principais: cachorro, gato e a letra “W”, inicial de Whiskerworld."
+        },
+        {
+          "type": "heading",
+          "text": "Construindo o símbolo"
+        },
+        {
+          "type": "text",
+          "text": "O desafio era combinar esses elementos de forma simples, sem deixar a marca carregada ou excessivamente literal."
+        },
+        {
+          "type": "text",
+          "text": "A solução foi trabalhar a letra “W” como base da composição e incorporar nela formas que remetem visualmente aos dois animais. Dessa maneira, o símbolo consegue representar o universo da adoção de cães e gatos sem depender de muitos elementos separados."
+        },
+        {
+          "type": "text",
+          "text": "Essa combinação também ajudou a criar uma marca com personalidade própria e facilmente relacionada ao nome Whiskerworld."
+        },
+        {
+          "type": "heading",
+          "text": "Uma identidade mais leve e acolhedora"
+        },
+        {
+          "type": "text",
+          "text": "A escolha das cores seguiu a mesma intenção."
+        },
+        {
+          "type": "text",
+          "text": "Busquei uma paleta mais suave, com tons claros de verde e amarelo, para transmitir leveza, proximidade e acolhimento. A ideia era fugir de uma estética muito séria ou institucional e construir algo que combinasse melhor com a natureza afetiva do projeto."
+        },
+        {
+          "type": "image",
+          "src": "/images/image41.webp",
+          "alt": "Símbolo do Whiskerworld em amarelo claro: cão e gato de perfil formando o traçado da letra W"
+        },
+        {
+          "type": "image",
+          "src": "/images/image42.webp",
+          "alt": "Versão verde do símbolo, com o cão à esquerda, o gato à direita e as orelhas destacadas acima"
+        },
+        {
+          "type": "text",
+          "text": "As formas arredondadas e os elementos gráficos também seguem essa linguagem, criando uma identidade visual que conversa diretamente com a interface desenvolvida para o website."
+        },
+        {
+          "type": "image",
+          "src": "/images/image43.webp",
+          "alt": "Logotipo horizontal em verde, com o símbolo do cão e do gato ao lado do nome Whiskerworld"
+        },
+        {
+          "type": "image",
+          "src": "/images/image44.webp",
+          "alt": "Mesma assinatura horizontal aplicada em amarelo claro, para uso sobre os fundos verdes da marca"
+        },
+        {
+          "type": "heading",
+          "text": "Do conceito à experiência"
+        },
+        {
+          "type": "text",
+          "text": "Mais do que criar uma logo isolada, procurei construir uma identidade que pudesse ser aplicada de forma consistente em diferentes partes do Whiskerworld."
+        },
+        {
+          "type": "text",
+          "text": "O símbolo, as cores e a linguagem visual foram incorporadas às telas do site, fazendo com que marca e interface parecessem pertencer ao mesmo universo."
+        },
+        {
+          "type": "text",
+          "text": "Esse projeto foi especialmente interessante para mim porque tive liberdade para desenvolver todo o processo visual, desde o conceito inicial até a aplicação final da identidade."
+        }
+      ]
+    }
+  }
+}
